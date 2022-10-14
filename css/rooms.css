@@ -1,0 +1,30 @@
+.room_size {
+    width: 25% !important;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    /* border: 2px solid red;
+    border-radius: 50px 20px; */
+
+}
+.room_padding {
+    margin-left: 10% !important;
+    margin-right: 10% !important;
+    /* margin-top: 10% !important; */
+}
+
+.font_modify_1 {
+    color: black;
+}
+
+
+.room_modify_1 {
+
+    margin-top: 10% !important;
+
+}
+
+img {
+    border-radius: 10% !important;
+    /* background-color: w; */
+
+}
